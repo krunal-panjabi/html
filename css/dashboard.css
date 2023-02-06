@@ -26,14 +26,17 @@ body {
 
 .menu-logo--div {
     display: flex;
-    gap: 15%;
+    gap: 9%;
     width: 14%;
-
-
 }
 
-#menu-icon {
+.menu-logo--div img {
+    width: 220px;
+}
+
+.menu-icon {
     cursor: pointer;
+    width:50%;
 }
 
 .search-box {
